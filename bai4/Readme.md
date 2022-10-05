@@ -1,7 +1,5 @@
-## Bài 3: Hãy học cách sử dụng Terraform Cloud để làm lại bài số 1. Bài này để tiết kiệm tài nguyên em xin phép chạy Terraform tạo 1 EC2 instace
+## Bài 4: Hãy học cách sử dụng Terraform Cloud để làm lại bài số 1. Bài này để tiết kiệm tài nguyên em xin phép chạy Terraform tạo 1 EC2 instace ạ
 
-
-- DNS name web: terraform-series-1959619594.us-west-2.elb.amazonaws.com
 
 
 Các bước thực hiện:
