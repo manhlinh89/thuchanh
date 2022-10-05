@@ -9,19 +9,19 @@ Kết quả sau khi chạy sẽ hiển thị thông tin qua hàm Phpinfo():
 
 - Giao diện trang web
 
-![markdown](/image/Screenshot_10.png)
+![markdown](image/Screenshot_10.png)
 
 -	Khi chưa được upload thì bucket đang rỗng
 
 
-![markdown](/image/Screenshot_7.png)
+![markdown](image/Screenshot_7.png)
 
 
 -	Sau khi upload thành công:
 
 
-![markdown](vScreenshot_8.png)
+![markdown](image/Screenshot_8.png)
 
-- Check trên bucket kết quả đã có file được upload lên.
+- Check trên bucket kết quả đã có file được upload lên
 
-![markdown](/image/Screenshot_9.png)
+![markdown](image/Screenshot_9.png)
