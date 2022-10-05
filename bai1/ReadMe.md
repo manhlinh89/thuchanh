@@ -2,7 +2,7 @@
 
 - Đường link vào web sau khi chạy thành công: http://3.0.35.241
 
-- Link code git: https://github.com/manhlinh89/thuchanh/tree/main/bai1
+
 
 Kết quả sau khi chạy sẽ hiển thị thông tin qua hàm Phpinfo():
 
