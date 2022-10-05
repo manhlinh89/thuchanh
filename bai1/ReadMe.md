@@ -1,16 +1,11 @@
-# Mục tiêu
-Triển khain web site PHP vào tên miền hocphp.fun
+## Bài 1: Hãy viết mã Terraform để dựng một web server bao gồm: Nginx và PHP 8.x trong một EC2
 
-Các đầu việc bạn cần chỉnh sửa:
+- Đường link vào web sau khi chạy thành công: http://3.0.35.241
 
-1. Đăng ký một tên miền trên namecheap rồi trỏ sang Route53 Host Zone
-2. Tạo Elastic IP để gắn vào EC2 khai báo ở file var.tf
-3. sửa lại tên miền trong trường `server_name    hocphp.fun www.hocphp.fun;` file phpsite.conf
+- Link code git: https://github.com/manhlinh89/thuchanh/tree/main/bai1
 
+Kết quả sau khi chạy sẽ hiển thị thông tin qua hàm Phpinfo():
 
 
-# Tham khảo
-- [How to Setup PHP-FPM (PHP 8) Nginx in Amazon Linux 2](https://awswithatiq.com/setup-php-nginx-in-amazon-linux-2/)
-- [Nginx Server Block to create a virtual host](https://awswithatiq.com/nginx-server-block-to-create-a-virtual-host/)
-- [How to install letsencrypt for nginx on Amazon Linux 2](http://howto.philippkeller.com/2022/05/04/How-to-install-letsencrypt-for-nginx-on-Amazon-Linux-2/)
+![markdown](Screenshot_130.png)
 
