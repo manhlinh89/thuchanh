@@ -22,6 +22,6 @@ Kết quả sau khi chạy sẽ hiển thị thông tin qua hàm Phpinfo():
 
 ![markdown](vScreenshot_8.png)
 
-- Check trên bucket kết quả đã có file được upload lên
+- Check trên bucket kết quả đã có file được upload lên.
 
 ![markdown](/image/Screenshot_9.png)
